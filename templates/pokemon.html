@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+{% block head %}
+{{ super() }}
+{% endblock %}
+{% block title %}All Pokémons{% endblock %}
+{% block content %}
+    <table class="striped centered">
+        <thead>
+        <tr>
+            <th>Pokedex#</th>
+            <th>Name</th>
+            <th>Base Stats
+            <div class="base-container" style="margin-bottom: -10px">
+                <div class="base-item"><i class="b-stat">HP</i></div>
+                <div class="base-item"><i class="b-stat">ATT</i></div>
+                <div class="base-item"><i class="b-stat">DEF</i></div>
+                <div class="base-item"><i class="b-stat">SP.A</i></div>
+                <div class="base-item"><i class="b-stat">SP.D</i></div>
+                <div class="base-item"><i class="b-stat">SPD</i></div>
+            </div>
+            </th>
+            <th>Type</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for item in pokemons %}
+            <tr>
+                <td><a href="/pokemon/{{ item.id}}/">
+                {% if item.id < 10 %}
+                    00{{ item.id }}
+                {% elif item.id < 100 %}
+                    0{{ item.id }}
+                {% else %}
+                    {{ item.id }}
+                {% endif %}
+                </a></td>
+                <td><a href="/pokemon/{{ item.id}}/">{{ item.name }}</a></td>
+                <td>
+                    <div class="base-container">
+                        <div class="base-item">{{ item.hit_points }}</div>
+                        <div class="base-item">{{ item.attack }}</div>
+                        <div class="base-item">{{ item.defense }}</div>
+                        <div class="base-item">{{ item.special_attack }}</div>
+                        <div class="base-item">{{ item.special_defense }}</div>
+                        <div class="base-item">{{ item.speed }}</div>
+                    </div>
+                </td>
+                <td>
+                    <div class="base-container">
+                    {% for type, color in item.type_color.items() %}
+                    <span class="base-item" style="background: rgb{{color.bg}}; color: {{ color.fg }};">
+                        {{type}}
+                    </span>
+                    {% endfor %}
+                    </div>
+                </td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}

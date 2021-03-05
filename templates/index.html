@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block title %}Home{% endblock %}
+{% block head %}
+  {{ super() }}
+  <style type="text/css">
+    .important { color: #336699; }
+    input#search.search {
+      font-size: 3rem;
+      height: 5rem;
+    }
+    .input-field>label {
+      transform: translateY(35px);
+    }
+  </style>
+{% endblock %}
+{% block content %}
+<div class="container">
+  <form action="/" method="GET">
+    <div class="input-field">
+      <input id="search" name="q" type="text" class="validate center search">
+      <label for="search" style="text-align: center;">Search for a Pokémon or a Move...</label>
+    </div>
+  </form>
+  <div style="text-align: center;">
+    <p>OR</p>
+    <a href="/pokemon/" class="waves-effect waves-light btn"><i class="material-icons left">list</i>Pokémons</a>
+    <a href="/move/" class="waves-effect waves-light btn"><i class="material-icons left">list</i>Moves</a>
+  </div>
+{% if search %}
+  <h4 class="center" style="margin-top: 4rem;">
+  {% if pokemons or moves %}
+    Here are the results for 
+  {% else %}
+    No results found for 
+  {% endif %}
+  "{{ search|e }}"</h4>
+  <div class="collection">
+    {% for pk in pokemons %}
+    <a href="/pokemon/{{ pk.id }}" class="collection-item">{{ pk.name }}</a>
+    {% endfor %}
+    {% for mv in moves %}
+    <a href="/move/{{ mv.id }}" class="collection-item">{{ mv.name }}</a>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+</div>
+{% endblock %}

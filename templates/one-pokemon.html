@@ -1,0 +1,106 @@
+{% extends "base.html" %}
+{% block head %}
+{{ super() }}
+<style>
+  .base-container {
+    max-width: 100%;
+    position: relative;
+  }
+  .divider::after {
+    position: absolute;
+    display: block;
+    content: "";
+    width: 0;
+    height: 0;
+    left: 50%;
+    margin-left: -9px;
+    border-left: 9px solid transparent;
+    border-right: 9px solid transparent;
+    border-top: 18px solid #e0e0e0;
+  }
+  .card .card-action a:not(.btn):not(.btn-large):not(.btn-small):not(.btn-large):not(.btn-floating) {
+    margin-right: 0;
+  }
+  .fix-size {
+    width: 22px;
+    height: 90px;
+  }
+  .rotate {
+    display: block;
+    transform: rotate(90deg);
+    transform-origin: top left;
+    height: 22px;
+    width: 90px;
+    position: relative;
+    left: 100%;
+    margin-left: -4.82px;
+  }
+</style>
+{% endblock %}
+{% block title %}{{ pokemon.name }}{% endblock %}
+{% block content %}
+<div class="row">
+  <div class="col s12 m10 offset-m1 l6 offset-l3">
+    <div class="card blue-grey darken-1">
+      <div class="card-content white-text">
+        <h2 class="center" style="margin-top: 0;margin-bottom:">{{ pokemon.name }}</h2>
+        <h5 class="center" style="margin-top: 3rem;">BASE STATS</h5>
+        <div class="base-container">
+          <div class="base-item">HP<br>{{ pokemon.hit_points }}</div>
+          <div class="base-item">ATT<br>{{ pokemon.attack }}</div>
+          <div class="base-item">DEF<br>{{ pokemon.defense }}</div>
+          <div class="base-item">SP.A<br>{{ pokemon.special_attack }}</div>
+          <div class="base-item">SP.D<br>{{ pokemon.special_defense }}</div>
+          <div class="base-item">SPD<br>{{ pokemon.speed }}</div>
+        </div>
+        <div class="divider"></div>
+        <h5 class="center" style="font-weight: bold;">{{ pokemon.sum }}</h5>
+      </div>
+        <p class="center" style="margin-bottom: 1.5rem;">
+          {% for type, color in pokemon.type_color.items() %}<span style="padding:15px 30px;background: rgb{{color.bg}}; color:{{color.fg}};">{{ type }}</span>{% endfor %}
+        </p>
+      <div class="card-action white-text center">
+        <p>Damage Taken From</p>
+        <div class="base-container">
+        {% for row in effectiveness %}
+          <div class="base-item fix-size" style="background: rgb{{row.attacking_color.bg}};">
+            <a class="rotate" style="color:{{row.attacking_color.fg}};">{{ row.attacking_name }}</a>
+          </div>
+        {% endfor %}
+        </div>
+        <div class="base-container">
+          {% for row in effectiveness %}
+          <div class="base-item" style="font-size: 12px">*{{ row.modifier }}</div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    <table class="striped centered">
+        <thead>
+        <tr>
+            <th>Move</th>
+            <th>Type</th>
+            <th>Power</th>
+            <th>Accuracy</th>
+            <th>PP</th>
+            <th>Level</th>
+            <th>Learned by</th>
+        </tr>
+        </thead>
+        <tbody>
+          {% for mv in moves %}
+            <tr>
+                <td><a href="/move/{{ mv.id }}/">{{ mv.name }}</a></td>
+                <td><span style="display:inline-block;padding:5px;width:66px;background: rgb{{mv.color.bg}}; color:{{mv.color.fg}};">{{ mv.type }}</span></td>
+                <td>{{ mv.power }}</td>
+                <td>{{ mv.accuracy }}</td>
+                <td>{{ mv.power_points }}</td>
+                <td>{{ mv.level }}</td>
+                <td>{{ mv.learned_by }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}

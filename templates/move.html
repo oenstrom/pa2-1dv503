@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block head %}
+{{ super() }}
+{% endblock %}
+{% block title %}All Moves{% endblock %}
+{% block content %}
+    <table class="striped centered">
+        <thead>
+        <tr>
+            <th>Move</th>
+            <th>Type</th>
+            <th>Power</th>
+            <th>Accuracy</th>
+            <th>PP</th>
+            <th>Description</th>
+        </tr>
+        </thead>
+        <tbody>
+          {% for mv in moves %}
+          <tr>
+              <td><a href="/move/{{ mv.id }}/">{{ mv.name }}</a></td>
+              <td><span style="display:inline-block;padding:5px;width:66px;background: rgb{{mv.color.bg}}; color:{{mv.color.fg}};">{{ mv.type }}</span></td>
+              <td>{{ mv.power }}</td>
+              <td>{{ mv.accuracy }}</td>
+              <td>{{ mv.power_points }}</td>
+              <td>{{ mv.description }}</td>
+          </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}

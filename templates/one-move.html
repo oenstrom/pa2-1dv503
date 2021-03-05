@@ -1,0 +1,96 @@
+{% extends "base.html" %}
+{% block head %}
+{{ super() }}
+<style>
+    .base-container {
+    max-width: 100%;
+    position: relative;
+  }
+  .divider::after {
+    position: absolute;
+    display: block;
+    content: "";
+    width: 0;
+    height: 0;
+    left: 50%;
+    margin-left: -9px;
+    border-left: 9px solid transparent;
+    border-right: 9px solid transparent;
+    border-top: 18px solid #e0e0e0;
+  }
+  .card .card-action a:not(.btn):not(.btn-large):not(.btn-small):not(.btn-large):not(.btn-floating) {
+    margin-right: 0;
+  }
+  .fix-size {
+    width: 22px;
+    height: 90px;
+  }
+  .rotate {
+    display: block;
+    transform: rotate(90deg);
+    transform-origin: top left;
+    height: 22px;
+    width: 90px;
+    position: relative;
+    left: 100%;
+    margin-left: -4.82px;
+  }
+</style>
+{% endblock %}
+{% block title %}{{ move.name }}{% endblock %}
+{% block content %}
+<div class="row">
+  <div class="col s12 m10 offset-m1 l6 offset-l3">
+    <div class="card blue-grey darken-1">
+      <div class="card-content white-text">
+        <h2 class="center" style="margin-top: 0;">{{ move.name }}</h2>
+        <div class="base-container">
+          <div class="base-item">POWER<br>{{ move.power }}</div>
+          <div class="base-item">ACCURACY<br>{{ move.accuracy }}</div>
+          <div class="base-item">PP<br>{{ move.power_points }}</div>
+        </div>
+        <div class="divider"></div>
+        <h5 class="center">{{ move.description }}</h5>
+      </div>
+        <p class="center" style="margin-bottom: 1.5rem;">
+          <span class="base-item" style="display:inline-block;padding:5px;width:66px;background: rgb{{move.color.bg}}; color:{{move.color.fg}};">{{ move.type }}</span>
+        </p>
+      <div class="card-action white-text center">
+        <p>Damage Given To</p>
+        <div class="base-container">
+        {% for row in effectiveness %}
+          <div class="base-item fix-size" style="background: rgb{{row.defending_color.bg}};">
+            <a class="rotate" style="color:{{row.defending_color.fg}};">{{ row.defending_name }}</a>
+          </div>
+        {% endfor %}
+        </div>
+        <div class="base-container">
+          {% for row in effectiveness %}
+          <div class="base-item" style="font-size: 12px">*{{ row.modifier }}</div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    <table class="striped centered">
+      <caption><h5>Pokémons that can learn <span class="base-item" style="display:inline-block;padding:0 5px;background: rgb{{move.color.bg}}; color:{{move.color.fg}};">{{ move.name }}</span></h5></caption>
+      <thead>
+      <tr>
+          <th>Name</th>
+          <th>Level</th>
+          <th>Learned by</th>
+      </tr>
+      </thead>
+      <tbody>
+      {% for poke in pokemons %}
+          <tr>
+              <td><a href="/pokemon/{{ poke.id}}/">{{ poke.name }}</a></td>
+              <td>{{ poke.level }}</td>
+              <td>{{ poke.learned_by }}</td>
+          </tr>
+      {% endfor %}
+      </tbody>
+  </table>
+{% endblock %}

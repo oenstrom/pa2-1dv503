@@ -1,0 +1,2192 @@
+pokemon_id,move_id,level,learned_by
+1,400,,Starts with
+1,159,3,Level
+1,428,9,Level
+1,278,13,Level
+1,353,13,Level
+1,403,15,Level
+1,302,19,Level
+1,394,21,Level
+1,160,25,Level
+1,95,27,Level
+1,445,31,Level
+1,399,33,Level
+1,333,37,Level
+2,400,,Starts with
+2,159,3,Level
+2,213,7,Level
+2,428,9,Level
+2,278,13,Level
+2,353,13,Level
+2,403,15,Level
+2,302,20,Level
+2,394,23,Level
+2,160,28,Level
+2,95,31,Level
+2,445,36,Level
+2,399,39,Level
+2,364,44,Level
+3,270,,Evolve
+3,400,,Starts with
+3,159,3,Level
+3,213,7,Level
+3,428,9,Level
+3,278,13,Level
+3,353,13,Level
+3,403,15,Level
+3,302,20,Level
+3,394,23,Level
+3,160,28,Level
+3,95,31,Level
+3,445,39,Level
+3,399,45,Level
+3,269,50,Level
+3,364,53,Level
+4,331,,Starts with
+4,159,,Starts with
+4,115,7,Level
+4,360,10,Level
+4,100,16,Level
+4,330,40,Level
+4,131,19,Level
+4,136,25,Level
+4,352,28,Level
+4,139,34,Level
+4,133,37,Level
+4,197,43,Level
+5,331,,Starts with
+5,159,,Starts with
+5,115,7,Level
+5,360,10,Level
+5,100,17,Level
+5,330,40,Level
+5,131,21,Level
+5,136,28,Level
+5,352,32,Level
+5,139,39,Level
+5,133,43,Level
+5,197,50,Level
+6,440,,Evolve
+6,140,71,Level
+6,175,62,Level
+6,97,,Starts with
+6,337,,Starts with
+6,11,,Starts with
+6,331,,Starts with
+6,159,,Starts with
+6,115,7,Level
+6,360,10,Level
+6,100,17,Level
+6,330,40,Level
+6,131,21,Level
+6,136,28,Level
+6,352,32,Level
+6,139,41,Level
+6,133,47,Level
+6,197,56,Level
+7,400,,Starts with
+7,401,4,Level
+7,431,7,Level
+7,441,10,Level
+7,44,13,Level
+7,32,16,Level
+7,301,19,Level
+7,285,22,Level
+7,432,25,Level
+7,17,28,Level
+7,346,31,Level
+7,199,34,Level
+7,300,37,Level
+7,184,40,Level
+8,400,,Starts with
+8,401,4,Level
+8,431,7,Level
+8,441,10,Level
+8,44,13,Level
+8,32,17,Level
+8,301,21,Level
+8,285,25,Level
+8,432,29,Level
+8,17,33,Level
+8,346,37,Level
+8,199,41,Level
+8,300,45,Level
+8,184,49,Level
+9,141,,Starts with
+9,400,,Starts with
+9,401,4,Level
+9,431,7,Level
+9,441,10,Level
+9,44,13,Level
+9,32,17,Level
+9,301,21,Level
+9,285,25,Level
+9,432,29,Level
+9,17,33,Level
+9,346,40,Level
+9,199,47,Level
+9,300,54,Level
+9,184,60,Level
+10,400,,Starts with
+10,383,,Starts with
+10,46,9,Level
+11,169,,Starts with
+12,165,,Evolve
+12,67,11,Level
+12,278,13,Level
+12,384,13,Level
+12,353,13,Level
+12,286,17,Level
+12,344,19,Level
+12,391,23,Level
+12,326,25,Level
+12,436,29,Level
+12,47,31,Level
+12,299,35,Level
+12,55,37,Level
+12,402,41,Level
+12,11,43,Level
+12,297,47,Level
+13,279,,Starts with
+13,383,,Starts with
+13,46,9,Level
+14,169,,Starts with
+15,421,,Starts with
+15,149,11,Level
+15,298,14,Level
+15,294,17,Level
+15,144,20,Level
+15,426,23,Level
+15,19,26,Level
+15,416,29,Level
+15,271,32,Level
+15,277,35,Level
+15,9,38,Level
+15,117,41,Level
+15,128,44,Level
+16,400,,Starts with
+16,327,5,Level
+16,165,9,Level
+16,295,13,Level
+16,436,17,Level
+16,422,21,Level
+16,125,25,Level
+16,9,29,Level
+16,440,33,Level
+16,323,37,Level
+16,402,41,Level
+16,246,45,Level
+16,11,49,Level
+16,183,53,Level
+17,400,,Starts with
+17,327,5,Level
+17,165,9,Level
+17,295,13,Level
+17,436,17,Level
+17,422,22,Level
+17,125,27,Level
+17,9,32,Level
+17,440,37,Level
+17,323,42,Level
+17,402,47,Level
+17,246,52,Level
+17,11,57,Level
+17,183,62,Level
+18,183,68,Level
+18,400,,Starts with
+18,327,5,Level
+18,165,9,Level
+18,295,13,Level
+18,436,17,Level
+18,422,22,Level
+18,125,27,Level
+18,9,32,Level
+18,440,38,Level
+18,323,44,Level
+18,402,50,Level
+18,246,56,Level
+18,11,62,Level
+19,400,,Starts with
+19,401,,Starts with
+19,295,4,Level
+19,144,7,Level
+19,32,10,Level
+19,294,13,Level
+19,186,16,Level
+19,19,19,Level
+19,78,22,Level
+19,387,25,Level
+19,389,28,Level
+19,95,31,Level
+19,117,34,Level
+20,330,,Evolve
+20,397,,Starts with
+20,400,,Starts with
+20,401,,Starts with
+20,295,4,Level
+20,144,7,Level
+20,32,10,Level
+20,294,13,Level
+20,186,16,Level
+20,19,19,Level
+20,78,24,Level
+20,387,29,Level
+20,389,34,Level
+20,95,39,Level
+20,117,44,Level
+21,267,,Starts with
+21,159,,Starts with
+21,214,4,Level
+21,294,8,Level
+21,149,11,Level
+21,7,15,Level
+21,246,18,Level
+21,19,22,Level
+21,9,25,Level
+21,144,29,Level
+21,323,32,Level
+21,105,36,Level
+22,106,45,Level
+22,274,,Starts with
+22,267,,Starts with
+22,159,,Starts with
+22,214,4,Level
+22,294,8,Level
+22,149,11,Level
+22,7,15,Level
+22,246,18,Level
+22,19,23,Level
+22,9,27,Level
+22,144,32,Level
+22,323,36,Level
+22,105,41,Level
+23,446,,Starts with
+23,214,,Starts with
+23,279,4,Level
+23,32,9,Level
+23,156,12,Level
+23,332,17,Level
+23,2,20,Level
+23,376,25,Level
+23,393,25,Level
+23,369,25,Level
+23,4,28,Level
+23,252,33,Level
+23,153,36,Level
+23,28,38,Level
+23,170,41,Level
+23,64,44,Level
+23,164,49,Level
+24,78,,Evolve
+24,190,,Starts with
+24,409,,Starts with
+24,131,,Starts with
+24,446,,Starts with
+24,214,,Starts with
+24,279,4,Level
+24,32,9,Level
+24,156,12,Level
+24,332,17,Level
+24,2,20,Level
+24,376,27,Level
+24,393,27,Level
+24,369,27,Level
+24,4,32,Level
+24,252,39,Level
+24,153,44,Level
+24,28,48,Level
+24,170,51,Level
+24,64,56,Level
+24,164,63,Level
+25,401,,Starts with
+25,411,,Starts with
+25,159,5,Level
+25,272,7,Level
+25,295,10,Level
+25,114,13,Level
+25,412,18,Level
+25,126,21,Level
+25,94,23,Level
+25,366,26,Level
+25,262,29,Level
+25,88,34,Level
+25,351,37,Level
+25,413,42,Level
+25,9,45,Level
+25,438,50,Level
+25,216,53,Level
+25,408,58,Level
+26,411,,Starts with
+26,401,,Starts with
+26,295,,Starts with
+26,413,,Starts with
+27,331,,Starts with
+27,82,,Starts with
+27,327,3,Level
+27,279,5,Level
+27,322,7,Level
+27,301,9,Level
+27,150,11,Level
+27,228,14,Level
+27,395,17,Level
+27,151,20,Level
+27,328,23,Level
+27,352,26,Level
+27,85,30,Level
+27,166,34,Level
+27,397,38,Level
+27,329,42,Level
+27,110,46,Level
+28,79,,Starts with
+28,331,,Starts with
+28,82,,Starts with
+28,327,3,Level
+28,279,5,Level
+28,322,7,Level
+28,301,9,Level
+28,150,11,Level
+28,228,14,Level
+28,395,17,Level
+28,151,20,Level
+28,328,24,Level
+28,352,28,Level
+28,85,33,Level
+28,166,38,Level
+28,397,43,Level
+28,329,48,Level
+28,110,53,Level
+29,159,,Starts with
+29,331,,Starts with
+29,401,7,Level
+29,92,9,Level
+29,279,13,Level
+29,151,19,Level
+29,32,21,Level
+29,177,25,Level
+29,416,31,Level
+29,142,33,Level
+29,78,37,Level
+29,55,43,Level
+29,275,45,Level
+30,159,,Starts with
+30,331,,Starts with
+30,401,7,Level
+30,92,9,Level
+30,279,13,Level
+30,151,20,Level
+30,32,23,Level
+30,177,28,Level
+30,416,35,Level
+30,142,38,Level
+30,78,43,Level
+30,55,50,Level
+30,275,58,Level
+31,390,58,Level
+31,331,,Starts with
+31,401,,Starts with
+31,92,,Starts with
+31,279,,Starts with
+31,59,23,Level
+31,36,35,Level
+31,109,43,Level
+32,214,,Starts with
+32,267,,Starts with
+32,144,7,Level
+32,92,9,Level
+32,279,13,Level
+32,149,19,Level
+32,181,21,Level
+32,177,25,Level
+32,416,31,Level
+32,142,33,Level
+32,277,37,Level
+32,55,43,Level
+32,182,45,Level
+33,214,,Starts with
+33,267,,Starts with
+33,144,7,Level
+33,92,9,Level
+33,279,13,Level
+33,149,20,Level
+33,181,23,Level
+33,177,28,Level
+33,416,35,Level
+33,142,38,Level
+33,277,43,Level
+33,55,50,Level
+33,182,58,Level
+34,235,58,Level
+34,267,,Starts with
+34,144,,Starts with
+34,92,,Starts with
+34,279,,Starts with
+34,59,23,Level
+34,407,35,Level
+34,109,43,Level
+35,373,,Starts with
+35,87,,Starts with
+35,280,,Starts with
+35,159,,Starts with
+35,116,,Starts with
+35,345,7,Level
+35,93,10,Level
+35,82,13,Level
+35,146,16,Level
+35,30,19,Level
+35,430,22,Level
+35,243,25,Level
+35,380,28,Level
+35,240,31,Level
+35,72,34,Level
+35,221,37,Level
+35,36,40,Level
+35,251,43,Level
+35,250,46,Level
+35,158,49,Level
+35,239,50,Level
+35,173,55,Level
+35,8,58,Level
+36,373,,Starts with
+36,87,,Starts with
+36,345,,Starts with
+36,93,,Starts with
+36,243,,Starts with
+36,240,,Starts with
+37,115,,Starts with
+37,401,4,Level
+37,314,7,Level
+37,24,9,Level
+37,295,10,Level
+37,66,12,Level
+37,133,15,Level
+37,266,18,Level
+37,439,20,Level
+37,127,23,Level
+37,178,26,Level
+37,136,28,Level
+37,120,31,Level
+37,326,34,Level
+37,139,36,Level
+37,196,39,Level
+37,130,42,Level
+37,161,44,Level
+37,55,47,Level
+37,197,50,Level
+38,196,,Starts with
+38,257,,Starts with
+38,139,,Starts with
+38,295,,Starts with
+38,66,,Starts with
+38,326,,Starts with
+39,345,,Starts with
+39,82,3,Level
+39,280,5,Level
+39,272,9,Level
+39,87,11,Level
+39,86,14,Level
+39,93,17,Level
+39,322,20,Level
+39,325,22,Level
+39,376,25,Level
+39,393,25,Level
+39,369,25,Level
+39,430,27,Level
+39,310,30,Level
+39,36,32,Level
+39,166,35,Level
+39,241,38,Level
+39,187,41,Level
+39,95,45,Level
+40,95,,Starts with
+40,273,,Starts with
+40,345,,Starts with
+40,82,,Starts with
+40,86,,Starts with
+40,93,,Starts with
+41,1,,Starts with
+41,391,5,Level
+41,20,7,Level
+41,32,11,Level
+41,440,13,Level
+41,66,17,Level
+41,10,19,Level
+41,395,23,Level
+41,275,25,Level
+41,230,29,Level
+41,212,31,Level
+41,170,35,Level
+41,426,37,Level
+41,11,41,Level
+41,296,43,Level
+42,332,,Starts with
+42,1,,Starts with
+42,391,5,Level
+42,20,7,Level
+42,32,11,Level
+42,440,13,Level
+42,66,17,Level
+42,10,19,Level
+42,395,24,Level
+42,275,27,Level
+42,230,32,Level
+42,212,35,Level
+42,170,40,Level
+42,426,43,Level
+42,11,48,Level
+42,296,51,Level
+43,1,,Starts with
+43,160,,Starts with
+43,394,5,Level
+43,2,9,Level
+43,278,13,Level
+43,384,14,Level
+43,353,15,Level
+43,232,19,Level
+43,221,23,Level
+43,251,27,Level
+43,154,31,Level
+43,415,35,Level
+43,258,39,Level
+43,250,43,Level
+43,157,47,Level
+43,270,51,Level
+44,1,,Starts with
+44,160,,Starts with
+44,394,5,Level
+44,2,9,Level
+44,278,13,Level
+44,384,14,Level
+44,353,15,Level
+44,232,19,Level
+44,221,24,Level
+44,251,29,Level
+44,154,34,Level
+44,415,39,Level
+44,258,44,Level
+44,269,49,Level
+44,157,54,Level
+44,270,59,Level
+45,232,,Starts with
+45,18,,Starts with
+45,278,,Starts with
+45,384,,Starts with
+45,269,49,Level
+45,270,59,Level
+45,364,69,Level
+46,331,,Starts with
+46,384,6,Level
+46,278,6,Level
+46,1,11,Level
+46,150,17,Level
+46,372,22,Level
+46,352,27,Level
+46,160,33,Level
+46,154,38,Level
+46,18,43,Level
+46,299,49,Level
+46,448,54,Level
+47,77,,Starts with
+47,331,,Starts with
+47,384,6,Level
+47,278,6,Level
+47,1,11,Level
+47,150,17,Level
+47,372,22,Level
+47,352,29,Level
+47,160,37,Level
+47,154,44,Level
+47,18,51,Level
+47,299,59,Level
+47,448,66,Level
+48,400,,Starts with
+48,86,,Starts with
+48,147,,Starts with
+48,391,5,Level
+48,67,11,Level
+48,278,13,Level
+48,286,17,Level
+48,384,23,Level
+48,343,25,Level
+48,353,29,Level
+48,212,35,Level
+48,451,37,Level
+48,275,41,Level
+48,288,47,Level
+49,165,,Evolve
+49,297,63,Level
+49,47,59,Level
+49,344,,Starts with
+49,400,,Starts with
+49,86,,Starts with
+49,147,,Starts with
+49,391,5,Level
+49,67,11,Level
+49,278,13,Level
+49,286,17,Level
+49,384,23,Level
+49,343,25,Level
+49,353,29,Level
+49,212,37,Level
+49,451,41,Level
+49,275,47,Level
+49,288,55,Level
+50,327,,Starts with
+50,331,,Starts with
+50,159,4,Level
+50,20,7,Level
+50,255,10,Level
+50,228,14,Level
+50,49,18,Level
+50,387,22,Level
+50,252,25,Level
+50,109,28,Level
+50,85,31,Level
+50,352,35,Level
+50,110,39,Level
+50,134,43,Level
+51,328,,Evolve
+51,324,,Starts with
+51,260,,Starts with
+51,418,,Starts with
+51,331,,Starts with
+51,327,,Starts with
+51,159,4,Level
+51,20,7,Level
+51,255,10,Level
+51,228,14,Level
+51,49,18,Level
+51,387,22,Level
+51,252,25,Level
+51,109,30,Level
+51,85,35,Level
+51,352,41,Level
+51,110,47,Level
+51,134,53,Level
+52,331,,Starts with
+52,159,,Starts with
+52,32,6,Level
+52,122,9,Level
+52,151,14,Level
+52,332,17,Level
+52,127,22,Level
+52,404,25,Level
+52,265,30,Level
+52,352,33,Level
+52,257,38,Level
+52,19,41,Level
+52,55,46,Level
+52,260,49,Level
+52,126,50,Level
+53,395,,Evolve
+53,273,,Starts with
+53,396,,Starts with
+53,331,,Starts with
+53,159,,Starts with
+53,32,6,Level
+53,122,9,Level
+53,151,14,Level
+53,332,17,Level
+53,127,22,Level
+53,404,25,Level
+53,282,32,Level
+53,352,37,Level
+53,257,44,Level
+53,19,49,Level
+53,55,56,Level
+53,260,61,Level
+53,126,65,Level
+54,433,,Starts with
+54,331,,Starts with
+54,401,4,Level
+54,431,7,Level
+54,67,10,Level
+54,151,13,Level
+54,432,16,Level
+54,86,19,Level
+54,332,22,Level
+54,451,25,Level
+54,17,28,Level
+54,362,31,Level
+54,287,34,Level
+54,13,37,Level
+54,184,40,Level
+54,442,43,Level
+55,229,,Starts with
+55,15,,Starts with
+55,433,,Starts with
+55,331,,Starts with
+55,401,4,Level
+55,431,7,Level
+55,67,10,Level
+55,151,13,Level
+55,432,16,Level
+55,86,19,Level
+55,332,22,Level
+55,451,25,Level
+55,17,28,Level
+55,362,31,Level
+55,287,36,Level
+55,13,41,Level
+55,184,46,Level
+55,442,51,Level
+56,74,,Starts with
+56,331,,Starts with
+56,219,,Starts with
+56,214,,Starts with
+56,144,,Starts with
+56,151,5,Level
+56,203,8,Level
+56,294,12,Level
+56,334,15,Level
+56,392,19,Level
+56,76,22,Level
+56,19,26,Level
+56,293,29,Level
+56,407,33,Level
+56,63,36,Level
+56,332,40,Level
+56,378,43,Level
+56,264,47,Level
+56,129,50,Level
+57,298,,Evolve
+57,129,57,Level
+57,143,,Starts with
+57,331,,Starts with
+57,219,,Starts with
+57,214,,Starts with
+57,144,,Starts with
+57,151,5,Level
+57,203,8,Level
+57,294,12,Level
+57,334,15,Level
+57,392,19,Level
+57,76,22,Level
+57,19,26,Level
+57,293,30,Level
+57,407,35,Level
+57,63,39,Level
+57,332,44,Level
+57,378,48,Level
+57,264,53,Level
+58,32,,Starts with
+58,314,,Starts with
+58,115,6,Level
+58,214,8,Level
+58,263,10,Level
+58,177,12,Level
+58,138,17,Level
+58,313,19,Level
+58,131,21,Level
+58,403,23,Level
+58,136,28,Level
+58,9,30,Level
+58,311,32,Level
+58,139,34,Level
+58,78,39,Level
+58,175,41,Level
+58,264,43,Level
+58,140,45,Level
+59,409,,Starts with
+59,32,,Starts with
+59,314,,Starts with
+59,263,,Starts with
+59,131,,Starts with
+59,121,34,Level
+60,433,,Starts with
+60,431,5,Level
+60,188,8,Level
+60,44,11,Level
+60,93,15,Level
+60,300,18,Level
+60,36,21,Level
+60,45,25,Level
+60,253,28,Level
+60,29,31,Level
+60,430,35,Level
+60,184,38,Level
+60,252,41,Level
+61,433,,Starts with
+61,431,5,Level
+61,188,8,Level
+61,44,11,Level
+61,93,15,Level
+61,300,18,Level
+61,36,21,Level
+61,45,27,Level
+61,253,32,Level
+61,29,37,Level
+61,430,43,Level
+61,184,48,Level
+61,252,53,Level
+62,385,,Evolve
+62,60,53,Level
+62,45,,Starts with
+62,188,,Starts with
+62,93,,Starts with
+62,108,32,Level
+62,242,43,Level
+63,406,,Starts with
+64,204,,Evolve
+64,406,,Starts with
+64,67,16,Level
+64,86,18,Level
+64,286,21,Level
+64,244,23,Level
+64,307,26,Level
+64,289,28,Level
+64,305,31,Level
+64,405,33,Level
+64,12,36,Level
+64,288,38,Level
+64,320,41,Level
+64,152,43,Level
+64,419,46,Level
+65,204,,Evolve
+65,406,,Starts with
+65,67,16,Level
+65,86,18,Level
+65,286,21,Level
+65,244,23,Level
+65,307,26,Level
+65,289,28,Level
+65,305,31,Level
+65,405,33,Level
+65,12,36,Level
+65,288,38,Level
+65,53,41,Level
+65,152,43,Level
+65,419,46,Level
+66,219,,Starts with
+66,214,,Starts with
+66,144,3,Level
+66,203,7,Level
+66,147,9,Level
+66,220,13,Level
+66,334,15,Level
+66,312,19,Level
+66,205,21,Level
+66,429,25,Level
+66,430,27,Level
+66,107,31,Level
+66,385,33,Level
+66,48,37,Level
+66,76,39,Level
+66,330,43,Level
+66,108,45,Level
+67,219,,Starts with
+67,214,,Starts with
+67,144,3,Level
+67,203,7,Level
+67,147,9,Level
+67,220,13,Level
+67,334,15,Level
+67,312,19,Level
+67,205,21,Level
+67,429,25,Level
+67,430,27,Level
+67,107,33,Level
+67,385,37,Level
+67,48,43,Level
+67,76,47,Level
+67,330,53,Level
+67,108,57,Level
+68,382,,Evolve
+68,437,,Starts with
+68,219,,Starts with
+68,214,,Starts with
+68,144,3,Level
+68,203,7,Level
+68,147,9,Level
+68,220,13,Level
+68,334,15,Level
+68,312,19,Level
+68,205,21,Level
+68,429,25,Level
+68,430,27,Level
+68,107,33,Level
+68,385,37,Level
+68,48,43,Level
+68,76,47,Level
+68,330,53,Level
+68,108,57,Level
+69,428,,Starts with
+69,160,7,Level
+69,446,11,Level
+69,353,13,Level
+69,278,15,Level
+69,384,17,Level
+69,2,23,Level
+69,205,27,Level
+69,394,29,Level
+69,153,35,Level
+69,302,39,Level
+69,277,41,Level
+69,351,47,Level
+69,447,50,Level
+70,428,,Starts with
+70,160,7,Level
+70,446,11,Level
+70,353,13,Level
+70,278,15,Level
+70,384,17,Level
+70,2,24,Level
+70,205,29,Level
+70,394,32,Level
+70,153,39,Level
+70,302,44,Level
+70,277,47,Level
+70,351,54,Level
+70,447,58,Level
+71,211,,Evolve
+71,376,,Starts with
+71,393,,Starts with
+71,369,,Starts with
+71,428,,Starts with
+71,353,,Starts with
+71,394,,Starts with
+71,302,,Starts with
+71,210,32,Level
+71,209,44,Level
+72,279,,Starts with
+72,391,4,Level
+72,68,7,Level
+72,2,10,Level
+72,416,13,Level
+72,432,16,Level
+72,446,19,Level
+72,4,22,Level
+72,45,25,Level
+72,26,28,Level
+72,277,31,Level
+72,43,34,Level
+72,332,37,Level
+72,178,40,Level
+72,357,43,Level
+72,184,46,Level
+72,447,49,Level
+73,308,,Starts with
+73,447,56,Level
+73,279,,Starts with
+73,391,4,Level
+73,68,7,Level
+73,2,10,Level
+73,416,13,Level
+73,432,16,Level
+73,446,19,Level
+73,4,22,Level
+73,45,25,Level
+73,26,28,Level
+73,277,32,Level
+73,43,36,Level
+73,332,40,Level
+73,178,44,Level
+73,357,48,Level
+73,184,52,Level
+74,400,,Starts with
+74,82,,Starts with
+74,254,4,Level
+74,316,6,Level
+74,322,10,Level
+74,228,12,Level
+74,318,16,Level
+74,358,18,Level
+74,49,22,Level
+74,335,24,Level
+74,374,28,Level
+74,315,30,Level
+74,110,34,Level
+74,119,36,Level
+74,95,40,Level
+74,379,42,Level
+75,400,,Starts with
+75,82,,Starts with
+75,254,4,Level
+75,316,6,Level
+75,322,10,Level
+75,228,12,Level
+75,318,16,Level
+75,358,18,Level
+75,49,22,Level
+75,335,24,Level
+75,374,30,Level
+75,315,34,Level
+75,110,40,Level
+75,119,44,Level
+75,95,50,Level
+75,379,54,Level
+76,176,60,Level
+76,400,,Starts with
+76,82,,Starts with
+76,254,4,Level
+76,316,6,Level
+76,375,10,Level
+76,228,12,Level
+76,318,16,Level
+76,358,18,Level
+76,49,22,Level
+76,335,24,Level
+76,374,30,Level
+76,315,34,Level
+76,110,40,Level
+76,119,44,Level
+76,95,50,Level
+76,379,54,Level
+77,159,,Starts with
+77,400,,Starts with
+77,401,4,Level
+77,115,9,Level
+77,138,13,Level
+77,377,17,Level
+77,137,21,Level
+77,133,25,Level
+77,403,29,Level
+77,197,33,Level
+77,9,37,Level
+77,130,41,Level
+77,40,45,Level
+77,140,49,Level
+78,149,,Evolve
+78,277,,Starts with
+78,235,,Starts with
+78,159,,Starts with
+78,295,,Starts with
+78,401,4,Level
+78,115,9,Level
+78,138,13,Level
+78,377,17,Level
+78,137,21,Level
+78,133,25,Level
+78,403,29,Level
+78,197,33,Level
+78,9,37,Level
+78,130,41,Level
+78,40,45,Level
+78,140,49,Level
+79,80,,Starts with
+79,449,,Starts with
+79,400,,Starts with
+79,159,5,Level
+79,431,9,Level
+79,67,14,Level
+79,86,19,Level
+79,171,23,Level
+79,432,28,Level
+79,451,32,Level
+79,350,36,Level
+79,13,41,Level
+79,288,45,Level
+79,300,49,Level
+79,287,54,Level
+79,172,58,Level
+80,441,,Evolve
+80,172,68,Level
+80,80,,Starts with
+80,449,,Starts with
+80,400,,Starts with
+80,159,5,Level
+80,431,9,Level
+80,67,14,Level
+80,86,19,Level
+80,171,23,Level
+80,432,28,Level
+80,451,32,Level
+80,350,36,Level
+80,13,43,Level
+80,288,49,Level
+80,300,55,Level
+80,287,62,Level
+81,400,,Starts with
+81,391,,Starts with
+81,411,5,Level
+81,225,7,Level
+81,412,11,Level
+81,216,13,Level
+81,365,17,Level
+81,366,20,Level
+81,247,19,Level
+81,238,23,Level
+81,114,25,Level
+81,141,29,Level
+81,332,31,Level
+81,88,35,Level
+81,217,37,Level
+81,226,41,Level
+81,166,43,Level
+81,450,47,Level
+82,418,,Evolve
+82,450,59,Level
+82,113,,Starts with
+82,400,,Starts with
+82,391,,Starts with
+82,411,5,Level
+82,225,7,Level
+82,412,11,Level
+82,216,13,Level
+82,365,17,Level
+82,366,20,Level
+82,247,19,Level
+82,238,23,Level
+82,114,25,Level
+82,141,29,Level
+82,332,33,Level
+82,88,39,Level
+82,217,43,Level
+82,226,49,Level
+82,166,53,Level
+83,41,49,Level
+83,277,,Starts with
+83,267,,Starts with
+83,327,,Starts with
+83,214,,Starts with
+83,150,,Starts with
+83,149,7,Level
+83,7,9,Level
+83,205,13,Level
+83,352,19,Level
+83,10,21,Level
+83,397,25,Level
+83,9,31,Level
+83,260,33,Level
+83,5,37,Level
+83,126,43,Level
+83,124,45,Level
+83,11,1,Level
+84,267,,Starts with
+84,159,,Starts with
+84,295,5,Level
+84,298,8,Level
+84,149,12,Level
+84,294,15,Level
+84,274,19,Level
+84,91,22,Level
+84,9,26,Level
+84,423,29,Level
+84,6,33,Level
+84,397,36,Level
+84,202,40,Level
+84,105,43,Level
+84,117,47,Level
+84,407,50,Level
+85,418,,Evolve
+85,267,,Starts with
+85,159,,Starts with
+85,295,5,Level
+85,298,8,Level
+85,149,12,Level
+85,294,15,Level
+85,274,19,Level
+85,91,22,Level
+85,9,26,Level
+85,423,29,Level
+85,6,34,Level
+85,397,38,Level
+85,202,43,Level
+85,105,47,Level
+85,117,52,Level
+85,407,56,Level
+86,171,,Starts with
+86,159,3,Level
+86,433,7,Level
+86,195,11,Level
+86,116,13,Level
+86,192,17,Level
+86,310,21,Level
+86,16,23,Level
+86,22,27,Level
+86,15,31,Level
+86,43,33,Level
+86,403,37,Level
+86,89,41,Level
+86,17,43,Level
+86,189,47,Level
+86,326,51,Level
+86,167,53,Level
+87,340,,Evolve
+87,171,,Starts with
+87,159,3,Level
+87,343,7,Level
+87,195,11,Level
+87,116,13,Level
+87,192,17,Level
+87,310,21,Level
+87,16,23,Level
+87,22,27,Level
+87,15,31,Level
+87,43,33,Level
+87,403,39,Level
+87,89,45,Level
+87,17,49,Level
+87,189,55,Level
+87,326,61,Level
+87,167,65,Level
+88,280,,Starts with
+88,276,,Starts with
+88,169,4,Level
+88,255,7,Level
+88,86,12,Level
+88,355,15,Level
+88,252,18,Level
+88,243,21,Level
+88,143,26,Level
+88,356,29,Level
+88,357,32,Level
+88,332,37,Level
+88,164,40,Level
+88,3,43,Level
+88,28,46,Level
+88,236,48,Level
+89,425,,Evolve
+89,280,,Starts with
+89,276,,Starts with
+89,169,4,Level
+89,255,7,Level
+89,86,12,Level
+89,355,15,Level
+89,252,18,Level
+89,243,21,Level
+89,143,26,Level
+89,356,29,Level
+89,357,32,Level
+89,332,37,Level
+89,164,40,Level
+89,3,46,Level
+89,28,52,Level
+89,236,57,Level
+90,400,,Starts with
+90,431,,Starts with
+90,441,4,Level
+90,391,8,Level
+90,194,13,Level
+90,285,16,Level
+90,214,20,Level
+90,61,25,Level
+90,192,28,Level
+90,303,32,Level
+90,22,37,Level
+90,435,40,Level
+90,43,44,Level
+90,199,49,Level
+90,189,52,Level
+90,341,56,Level
+90,184,61,Level
+91,184,,Starts with
+91,341,,Starts with
+91,416,,Starts with
+91,441,,Starts with
+91,391,,Starts with
+91,285,,Starts with
+91,22,,Starts with
+91,367,13,Level
+91,368,28,Level
+91,193,50,Level
+92,188,,Starts with
+92,215,,Starts with
+92,370,5,Level
+92,230,4,Level
+92,80,8,Level
+92,259,12,Level
+92,66,15,Level
+92,387,19,Level
+92,266,22,Level
+92,336,26,Level
+92,104,29,Level
+92,81,33,Level
+92,83,36,Level
+92,178,40,Level
+92,261,43,Level
+93,338,,Evolve
+93,188,,Starts with
+93,215,,Starts with
+93,370,4,Level
+93,230,5,Level
+93,80,4,Level
+93,259,8,Level
+93,66,12,Level
+93,387,15,Level
+93,266,19,Level
+93,336,22,Level
+93,104,28,Level
+93,81,33,Level
+93,83,39,Level
+93,178,44,Level
+93,261,50,Level
+94,338,,Evolve
+94,188,,Starts with
+94,215,,Starts with
+94,370,4,Level
+94,230,5,Level
+94,80,4,Level
+94,259,8,Level
+94,66,12,Level
+94,387,15,Level
+94,266,19,Level
+94,336,22,Level
+94,104,28,Level
+94,81,33,Level
+94,83,39,Level
+94,178,44,Level
+94,261,50,Level
+95,254,,Starts with
+95,400,,Starts with
+95,169,,Starts with
+95,31,,Starts with
+95,80,4,Level
+95,318,7,Level
+95,319,10,Level
+95,298,13,Level
+95,374,16,Level
+95,316,19,Level
+95,166,20,Level
+95,358,22,Level
+95,96,25,Level
+95,351,28,Level
+95,332,31,Level
+95,317,34,Level
+95,328,37,Level
+95,201,40,Level
+95,85,43,Level
+95,379,46,Level
+95,95,49,Level
+95,329,52,Level
+96,280,,Starts with
+96,188,,Starts with
+96,86,5,Level
+96,67,9,Level
+96,171,29,Level
+96,276,17,Level
+96,231,21,Level
+96,286,25,Level
+96,287,33,Level
+96,398,37,Level
+96,451,41,Level
+96,392,45,Level
+96,288,49,Level
+96,257,53,Level
+96,290,57,Level
+96,152,61,Level
+97,152,61,Level
+97,257,53,Level
+97,261,,Starts with
+97,396,,Starts with
+97,280,,Starts with
+97,188,,Starts with
+97,86,5,Level
+97,67,9,Level
+97,171,29,Level
+97,276,17,Level
+97,231,21,Level
+97,286,25,Level
+97,287,33,Level
+97,398,37,Level
+97,451,41,Level
+97,392,45,Level
+97,288,49,Level
+97,290,57,Level
+98,254,,Starts with
+98,44,,Starts with
+98,427,5,Level
+98,214,9,Level
+98,169,11,Level
+98,45,15,Level
+98,253,19,Level
+98,237,21,Level
+98,377,25,Level
+98,285,29,Level
+98,163,31,Level
+98,351,35,Level
+98,43,39,Level
+98,75,41,Level
+98,135,45,Level
+99,437,,Starts with
+99,254,,Starts with
+99,44,,Starts with
+99,427,5,Level
+99,214,9,Level
+99,169,11,Level
+99,45,15,Level
+99,253,19,Level
+99,237,21,Level
+99,377,25,Level
+99,285,32,Level
+99,163,37,Level
+99,351,44,Level
+99,43,51,Level
+99,75,56,Level
+99,135,63,Level
+100,56,,Starts with
+100,400,,Starts with
+100,365,4,Level
+100,111,20,Level
+100,366,6,Level
+100,322,9,Level
+100,332,11,Level
+100,57,13,Level
+100,395,16,Level
+100,114,20,Level
+100,335,22,Level
+100,216,26,Level
+100,226,29,Level
+100,88,34,Level
+100,119,37,Level
+100,166,41,Level
+100,245,46,Level
+101,227,,Starts with
+101,56,,Starts with
+101,400,,Starts with
+101,365,,Starts with
+101,111,4,Level
+101,366,20,Level
+101,322,6,Level
+101,332,9,Level
+101,57,11,Level
+101,395,13,Level
+101,114,16,Level
+101,335,20,Level
+101,216,22,Level
+101,226,26,Level
+101,88,29,Level
+101,119,36,Level
+101,166,41,Level
+101,245,47,Level
+102,25,,Starts with
+102,423,,Starts with
+102,188,,Starts with
+102,307,7,Level
+102,213,11,Level
+102,51,17,Level
+102,384,19,Level
+102,278,21,Level
+102,353,23,Level
+102,67,27,Level
+102,445,33,Level
+102,258,37,Level
+102,364,43,Level
+102,120,47,Level
+102,30,50,Level
+103,377,,Evolve
+103,333,,Starts with
+103,25,,Starts with
+103,188,,Starts with
+103,67,,Starts with
+103,290,17,Level
+103,112,27,Level
+103,443,37,Level
+103,210,47,Level
+104,159,,Starts with
+104,401,3,Level
+104,37,7,Level
+104,171,11,Level
+104,214,13,Level
+104,144,17,Level
+104,39,21,Level
+104,298,,Starts with
+104,124,23,Level
+104,407,27,Level
+104,143,1,Level
+104,378,31,Level
+104,117,33,Level
+104,95,37,Level
+104,311,41,Level
+104,38,43,Level
+105,159,,Starts with
+105,401,3,Level
+105,37,7,Level
+105,171,11,Level
+105,214,13,Level
+105,144,17,Level
+105,39,21,Level
+105,298,,Starts with
+105,124,23,Level
+105,407,27,Level
+105,143,1,Level
+105,378,33,Level
+105,117,37,Level
+105,95,43,Level
+105,311,49,Level
+105,38,53,Level
+106,92,,Evolve
+106,313,57,Level
+106,63,53,Level
+106,233,1,Level
+106,312,,Starts with
+106,231,5,Level
+106,321,9,Level
+106,202,13,Level
+106,42,17,Level
+106,144,21,Level
+106,126,25,Level
+106,180,29,Level
+106,242,33,Level
+106,147,37,Level
+106,437,41,Level
+106,33,45,Level
+106,118,49,Level
+107,65,,Evolve
+107,63,66,Level
+107,73,61,Level
+107,145,56,Level
+107,312,,Starts with
+107,9,6,Level
+107,294,11,Level
+107,222,16,Level
+107,50,16,Level
+107,126,21,Level
+107,424,26,Level
+107,296,31,Level
+107,410,36,Level
+107,191,36,Level
+107,132,36,Level
+107,349,41,Level
+107,234,46,Level
+107,84,50,Level
+108,215,,Starts with
+108,391,5,Level
+108,82,9,Level
+108,205,13,Level
+108,446,17,Level
+108,377,21,Level
+108,86,25,Level
+108,351,29,Level
+108,322,33,Level
+108,59,37,Level
+108,229,41,Level
+108,309,45,Level
+108,332,49,Level
+108,284,53,Level
+108,447,57,Level
+109,276,,Starts with
+109,400,,Starts with
+109,359,4,Level
+109,360,7,Level
+109,19,12,Level
+109,62,15,Level
+109,355,18,Level
+109,335,23,Level
+109,170,26,Level
+109,166,29,Level
+109,356,34,Level
+109,119,37,Level
+109,83,40,Level
+109,28,42,Level
+109,236,45,Level
+110,91,,Evolve
+110,276,,Starts with
+110,400,,Starts with
+110,359,4,Level
+110,360,7,Level
+110,19,12,Level
+110,62,15,Level
+110,355,18,Level
+110,335,23,Level
+110,170,26,Level
+110,166,29,Level
+110,356,34,Level
+110,119,40,Level
+110,83,46,Level
+110,28,51,Level
+110,236,57,Level
+111,181,,Starts with
+111,401,,Starts with
+111,149,5,Level
+111,330,9,Level
+111,358,13,Level
+111,377,17,Level
+111,49,21,Level
+111,59,25,Level
+111,315,29,Level
+111,106,33,Level
+111,403,37,Level
+111,379,41,Level
+111,110,45,Level
+111,235,49,Level
+111,182,53,Level
+112,168,,Evolve
+112,182,62,Level
+112,181,,Starts with
+112,401,,Starts with
+112,149,5,Level
+112,330,9,Level
+112,358,13,Level
+112,377,17,Level
+112,49,21,Level
+112,59,25,Level
+112,315,29,Level
+112,106,33,Level
+112,403,37,Level
+112,379,41,Level
+112,110,48,Level
+112,235,55,Level
+113,95,54,Level
+113,82,,Starts with
+113,280,,Starts with
+113,159,,Starts with
+113,401,5,Level
+113,309,9,Level
+113,93,12,Level
+113,363,16,Level
+113,30,20,Level
+113,243,23,Level
+113,403,27,Level
+113,345,31,Level
+113,143,34,Level
+113,172,38,Level
+113,112,42,Level
+113,216,46,Level
+113,173,50,Level
+114,198,,Starts with
+114,68,,Starts with
+114,353,4,Level
+114,428,7,Level
+114,1,10,Level
+114,278,14,Level
+114,31,17,Level
+114,160,20,Level
+114,232,23,Level
+114,205,27,Level
+114,384,30,Level
+114,258,33,Level
+114,154,36,Level
+114,14,38,Level
+114,351,41,Level
+114,414,44,Level
+114,447,46,Level
+114,157,48,Level
+114,284,50,Level
+115,65,,Starts with
+115,214,,Starts with
+115,122,7,Level
+115,401,10,Level
+115,32,13,Level
+115,91,19,Level
+115,298,22,Level
+115,234,25,Level
+115,59,31,Level
+115,90,34,Level
+115,78,37,Level
+115,118,43,Level
+115,264,1,Level
+115,387,46,Level
+115,313,49,Level
+116,44,,Starts with
+116,360,5,Level
+116,214,9,Level
+116,431,13,Level
+116,422,17,Level
+116,45,21,Level
+116,144,26,Level
+116,43,31,Level
+116,9,36,Level
+116,99,41,Level
+116,98,46,Level
+116,184,52,Level
+117,184,60,Level
+117,44,,Starts with
+117,360,5,Level
+117,214,9,Level
+117,431,13,Level
+117,422,17,Level
+117,45,21,Level
+117,144,26,Level
+117,43,31,Level
+117,9,38,Level
+117,99,45,Level
+117,98,52,Level
+118,267,,Starts with
+118,401,,Starts with
+118,433,,Starts with
+118,391,5,Level
+118,181,8,Level
+118,135,13,Level
+118,432,16,Level
+118,16,21,Level
+118,149,24,Level
+118,9,29,Level
+118,434,32,Level
+118,182,37,Level
+118,362,40,Level
+118,235,45,Level
+119,235,54,Level
+119,277,,Starts with
+119,267,,Starts with
+119,401,,Starts with
+119,433,,Starts with
+119,391,5,Level
+119,181,8,Level
+119,135,13,Level
+119,432,16,Level
+119,16,21,Level
+119,149,24,Level
+119,9,29,Level
+119,434,32,Level
+119,182,40,Level
+119,362,46,Level
+120,400,,Starts with
+120,169,,Starts with
+120,431,4,Level
+120,301,7,Level
+120,305,10,Level
+120,292,13,Level
+120,395,16,Level
+120,45,18,Level
+120,54,22,Level
+120,166,24,Level
+120,43,28,Level
+120,243,31,Level
+120,308,35,Level
+120,282,37,Level
+120,66,40,Level
+120,288,42,Level
+120,216,46,Level
+120,72,49,Level
+120,184,53,Level
+121,184,,Starts with
+121,373,,Starts with
+121,431,,Starts with
+121,301,,Starts with
+121,305,,Starts with
+121,395,,Starts with
+121,66,40,Level
+122,249,,Starts with
+122,224,,Starts with
+122,296,,Starts with
+122,437,,Starts with
+122,283,,Starts with
+122,162,,Starts with
+122,26,,Starts with
+122,67,,Starts with
+122,71,4,Level
+122,231,8,Level
+122,93,11,Level
+122,241,15,Level
+122,292,15,Level
+122,116,18,Level
+122,216,22,Level
+122,307,22,Level
+122,286,25,Level
+122,386,29,Level
+122,306,32,Level
+122,419,36,Level
+122,288,39,Level
+122,320,43,Level
+122,27,46,Level
+122,326,50,Level
+123,424,,Starts with
+123,295,,Starts with
+123,214,,Starts with
+123,144,5,Level
+123,294,9,Level
+123,124,13,Level
+123,9,1,Level
+123,440,17,Level
+123,150,21,Level
+123,352,25,Level
+123,304,29,Level
+123,94,33,Level
+123,448,37,Level
+123,260,41,Level
+123,91,45,Level
+123,11,49,Level
+123,397,50,Level
+123,126,57,Level
+124,103,,Starts with
+124,268,55,Level
+124,280,,Starts with
+124,215,5,Level
+124,218,8,Level
+124,281,11,Level
+124,93,15,Level
+124,191,18,Level
+124,174,21,Level
+124,230,25,Level
+124,123,28,Level
+124,430,33,Level
+124,23,39,Level
+124,36,44,Level
+124,447,49,Level
+124,34,60,Level
+125,295,,Starts with
+125,214,,Starts with
+125,411,5,Level
+125,219,8,Level
+125,395,12,Level
+125,342,15,Level
+125,412,19,Level
+125,114,22,Level
+125,216,26,Level
+125,410,29,Level
+125,88,36,Level
+125,332,42,Level
+125,413,49,Level
+125,408,55,Level
+126,359,,Starts with
+126,214,,Starts with
+126,115,5,Level
+126,360,8,Level
+126,127,12,Level
+126,133,15,Level
+126,62,19,Level
+126,136,22,Level
+126,66,26,Level
+126,132,29,Level
+126,208,36,Level
+126,388,42,Level
+126,139,49,Level
+126,130,55,Level
+127,427,,Starts with
+127,144,,Starts with
+127,31,4,Level
+127,334,8,Level
+127,169,11,Level
+127,312,15,Level
+127,429,18,Level
+127,91,22,Level
+127,42,26,Level
+127,448,29,Level
+127,385,33,Level
+127,381,36,Level
+127,397,40,Level
+127,407,43,Level
+127,390,47,Level
+127,163,50,Level
+128,400,,Starts with
+128,401,3,Level
+128,298,5,Level
+128,181,8,Level
+128,330,11,Level
+128,294,15,Level
+128,310,19,Level
+128,266,24,Level
+128,444,29,Level
+128,451,35,Level
+128,403,41,Level
+128,392,48,Level
+128,407,50,Level
+128,155,63,Level
+129,371,,Starts with
+129,400,15,Level
+129,135,30,Level
+130,32,,Evolve
+130,407,,Starts with
+130,214,21,Level
+130,422,24,Level
+130,190,27,Level
+130,17,30,Level
+130,330,33,Level
+130,100,36,Level
+130,78,40,Level
+130,184,39,Level
+130,98,42,Level
+130,183,45,Level
+130,300,48,Level
+130,185,51,Level
+131,345,,Starts with
+131,159,,Starts with
+131,431,,Starts with
+131,248,4,Level
+131,66,7,Level
+131,192,10,Level
+131,432,14,Level
+131,36,18,Level
+131,300,22,Level
+131,268,27,Level
+131,189,32,Level
+131,43,37,Level
+131,326,43,Level
+131,184,47,Level
+131,340,50,Level
+132,417,,Starts with
+133,74,,Starts with
+133,177,,Starts with
+133,159,,Starts with
+133,400,,Starts with
+133,401,,Starts with
+133,327,5,Level
+133,24,9,Level
+133,295,13,Level
+133,32,17,Level
+133,395,17,Level
+133,309,20,Level
+133,403,25,Level
+133,58,29,Level
+133,27,33,Level
+133,95,37,Level
+133,207,41,Level
+133,420,45,Level
+134,431,,Evolve
+134,177,,Starts with
+134,400,,Starts with
+134,401,,Starts with
+134,327,5,Level
+134,24,9,Level
+134,295,13,Level
+134,432,17,Level
+134,22,20,Level
+134,16,25,Level
+134,3,29,Level
+134,170,33,Level
+134,256,37,Level
+134,207,41,Level
+134,184,45,Level
+135,411,,Evolve
+135,177,,Starts with
+135,400,,Starts with
+135,401,,Starts with
+135,327,5,Level
+135,24,9,Level
+135,295,13,Level
+135,92,17,Level
+135,409,20,Level
+135,271,25,Level
+135,9,29,Level
+135,412,33,Level
+135,88,37,Level
+135,207,41,Level
+135,408,45,Level
+136,115,,Evolve
+136,177,,Starts with
+136,400,,Starts with
+136,401,,Starts with
+136,327,5,Level
+136,24,9,Level
+136,295,13,Level
+136,32,17,Level
+136,131,20,Level
+136,133,25,Level
+136,330,29,Level
+136,359,33,Level
+136,208,37,Level
+136,207,41,Level
+136,140,45,Level
+137,70,,Starts with
+137,400,,Starts with
+137,69,,Starts with
+137,339,,Starts with
+137,286,7,Level
+137,9,12,Level
+137,305,18,Level
+137,226,23,Level
+137,343,29,Level
+137,306,34,Level
+137,88,40,Level
+137,217,45,Level
+137,418,50,Level
+137,223,56,Level
+137,450,62,Level
+138,68,,Starts with
+138,441,,Starts with
+138,32,7,Level
+138,431,10,Level
+138,322,16,Level
+138,214,19,Level
+138,253,25,Level
+138,43,28,Level
+138,285,34,Level
+138,14,37,Level
+138,414,43,Level
+138,315,46,Level
+138,341,50,Level
+138,184,55,Level
+139,367,,Evolve
+139,184,75,Level
+139,68,,Starts with
+139,441,,Starts with
+139,32,7,Level
+139,431,10,Level
+139,322,16,Level
+139,214,19,Level
+139,253,25,Level
+139,43,28,Level
+139,285,34,Level
+139,14,37,Level
+139,414,48,Level
+139,315,56,Level
+139,341,67,Level
+140,331,,Starts with
+140,169,,Starts with
+140,1,6,Level
+140,214,11,Level
+140,253,16,Level
+140,327,21,Level
+140,118,26,Level
+140,15,1,Level
+140,232,31,Level
+140,238,36,Level
+140,14,41,Level
+140,447,46,Level
+141,352,,Evolve
+141,260,63,Level
+141,126,,Starts with
+141,331,,Starts with
+141,169,,Starts with
+141,1,6,Level
+141,214,11,Level
+141,253,16,Level
+141,327,21,Level
+141,118,26,Level
+141,15,1,Level
+141,232,31,Level
+141,238,36,Level
+141,14,45,Level
+141,447,54,Level
+142,200,57,Level
+142,190,,Starts with
+142,131,,Starts with
+142,409,,Starts with
+142,440,,Starts with
+142,391,,Starts with
+142,32,,Starts with
+142,330,,Starts with
+142,314,9,Level
+142,9,17,Level
+142,14,25,Level
+142,78,33,Level
+142,403,41,Level
+142,348,49,Level
+142,185,65,Level
+142,317,73,Level
+142,155,81,Level
+143,400,,Starts with
+143,82,4,Level
+143,13,9,Level
+143,215,12,Level
+143,59,17,Level
+143,449,20,Level
+143,36,25,Level
+143,310,28,Level
+143,361,28,Level
+143,354,33,Level
+143,155,35,Level
+143,322,36,Level
+143,35,41,Level
+143,29,44,Level
+143,78,49,Level
+143,176,50,Level
+143,179,57,Level
+144,165,,Starts with
+144,281,,Starts with
+144,248,8,Level
+144,192,15,Level
+144,242,22,Level
+144,14,29,Level
+144,9,36,Level
+144,148,43,Level
+144,307,50,Level
+144,167,57,Level
+144,402,64,Level
+144,189,71,Level
+144,34,78,Level
+144,323,85,Level
+144,183,92,Level
+144,340,99,Level
+145,267,,Starts with
+145,411,,Starts with
+145,412,8,Level
+145,84,15,Level
+145,274,22,Level
+145,14,29,Level
+145,56,36,Level
+145,9,43,Level
+145,88,50,Level
+145,300,57,Level
+145,216,64,Level
+145,105,71,Level
+145,408,78,Level
+145,323,85,Level
+145,227,92,Level
+145,450,99,Level
+146,440,,Starts with
+146,115,,Starts with
+146,133,8,Level
+146,9,15,Level
+146,118,22,Level
+146,14,1,Level
+146,139,29,Level
+146,326,36,Level
+146,11,43,Level
+146,388,50,Level
+146,175,57,Level
+146,364,64,Level
+146,347,71,Level
+146,323,78,Level
+146,183,85,Level
+146,52,92,Level
+147,446,,Starts with
+147,214,,Starts with
+147,412,5,Level
+147,422,11,Level
+147,100,15,Level
+147,351,40,Level
+147,9,21,Level
+147,102,25,Level
+147,17,31,Level
+147,101,35,Level
+147,326,41,Level
+147,98,45,Level
+147,264,51,Level
+147,185,55,Level
+148,446,,Starts with
+148,214,,Starts with
+148,412,5,Level
+148,422,11,Level
+148,100,15,Level
+148,351,40,Level
+148,9,21,Level
+148,102,25,Level
+148,17,33,Level
+148,101,39,Level
+148,326,47,Level
+148,98,53,Level
+148,264,61,Level
+148,185,67,Level
+149,440,,Evolve
+149,183,75,Level
+149,132,,Starts with
+149,410,,Starts with
+149,323,,Starts with
+149,446,,Starts with
+149,214,,Starts with
+149,412,5,Level
+149,422,11,Level
+149,100,15,Level
+149,351,40,Level
+149,9,21,Level
+149,102,25,Level
+149,17,33,Level
+149,101,39,Level
+149,326,47,Level
+149,98,53,Level
+149,264,61,Level
+149,185,67,Level
+150,206,,Starts with
+150,292,,Starts with
+150,67,,Starts with
+150,86,,Starts with
+150,326,,Starts with
+150,395,8,Level
+150,152,15,Level
+150,287,22,Level
+150,244,29,Level
+150,289,36,Level
+150,283,43,Level
+150,162,43,Level
+150,305,50,Level
+150,288,57,Level
+150,26,64,Level
+150,21,70,Level
+150,13,79,Level
+150,248,86,Level
+150,229,93,Level
+150,291,100,Level
+151,280,,Starts with
+151,308,,Starts with
+151,417,,Starts with
+151,234,10,Level
+151,240,20,Level
+151,288,30,Level
+151,26,40,Level
+151,14,50,Level
+151,13,60,Level
+151,229,70,Level
+151,27,80,Level
+151,257,90,Level
+151,21,100,Level

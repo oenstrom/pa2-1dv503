@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+  {% block head %}
+  <style>
+    .title {
+      text-align: center;
+    }
+    .base-container {
+        display: flex;
+        max-width: 300px;
+        justify-content: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .base-item {
+        flex-grow: 1;
+        flex-basis: 0;
+        text-align: center;
+    }
+    .b-stat {
+      font-size: 10px;
+      font-style: normal;
+    }
+    .input-field>label:not(.label-icon).active {
+      transform: translateY(-14px) scale(1);
+    }
+  </style>
+  <title>{% block title %}{% endblock %} - Pokémon DB</title>
+  {% endblock %}
+</head>
+<body>
+    <h1 class="title"><a href="/">Pokémon DB</a></h1>
+    {% block content %}{% endblock %}
+  <div id="footer" style="text-align: center;">
+    {% block footer %}
+      &copy; Copyright 2021 Olof Enström</a>.
+    {% endblock %}
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+</body>
+</html>
